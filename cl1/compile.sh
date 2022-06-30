@@ -1,0 +1,1 @@
+as example.s -o example.o && ld example.o -o example 
